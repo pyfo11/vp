@@ -1,1 +1,13 @@
-我是新分支aabbcc
+"terminal.integrated.shell.windows": "G:\\ESP32\\msys32\\msys2_shell.cmd",
+
+"terminal.integrated.shellArgs.windows": [
+
+"-defterm",
+
+"-mingw32",
+
+"-no-start",
+
+"-here"
+
+],

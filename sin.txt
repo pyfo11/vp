@@ -11,3 +11,7 @@
 "-here"
 
 ],
+
+https://www.cnblogs.com/seelylin/p/16778303.html
+
+打开目录“G:\ESP32\msys32\etc\profile.d”,修改文件“esp32_toolchain.sh”
